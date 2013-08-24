@@ -1,0 +1,259 @@
+Plan de Administración de Proyecto
+A continuación encontrarán los elementos que deben incluir el documento de Plan Administración de Proyecto. Todos los párrafos del color de este texto son las instrucciones para completar cada sección. Deben ser removidos del documento a entregar. 
+Cada sección indica los elementos que debe contener y la longitud máxima permitida. Traten de ajustarse a las restricciones de espacio que se indican. Se permiten excepciones en casos debidamente justificados. No altere el formato del documento (tamaños, tipos de letra, espaciado, márgenes, etc.), ya que eso altera los tamaños máximos de cada sección. Puede modificar colores de letra y agregar marcas de agua, siempre y cuando no dificulten la lectura. Las figuras y tablas deben tener un tamaño de letra igual o superior a la del texto de este párrafo.
+Análisis de Alternativas y Justificación
+Algunas partes del documento incluyen una sub-sección llamada "Análisis de Alternativas y Justificación". Allí Uds. deben detallar todas las alternativas que investigaron para resolver el aspecto tratado en la sección que la contiene, así como un análisis de éstas que permita justificar por qué se escogió una alternativa particular. Por ejemplo, en la sección Modelo de Ciclo de Vida, Uds. deben indicar todos los modelos de ciclo de vida que investigaron, una descripción breve de sus ventajas y desventajas, y una adecuada argumentación de por qué el ciclo de vida escogido es el más adecuado en el contexto de su proyecto. Cada alternativa investigada, así como los argumentos de la justificación, deben estar debidamente soportados por citas bibliográficas.
+Si bien la sub-sección "Análisis de Alternativas y Justificación" no es común encontrarla en un documento de plan de proyecto, su propósito es evaluar que el grupo sea capaz de investigar y encontrar la mejor alternativa para resolver un problema. Sean muy cuidadosos en la elaboración de estas sub-secciones, ya que constituyen un porcentaje importante de la evaluación.
+Diagramas BPMN
+Algunas secciones requieren la elaboración de diagramas BPMN. Dichos diagramas deben estar bien formados: deben incluir todos los roles involucrados, artefactos, herramientas y las actividades más importantes y utilizar correctamente la notación. Todos los diagramas deben ir acompañados de un párrafo que los describa.
+ 
+Portada
+La primera página es la portada del documento. 
+Tamaño: 1 página
+Referencias: [1], sección, sección 5
+ 
+Historial de Cambios
+Propósito: Describir brevemente los cambios que ha sufrido el documento, con el fin de llevar una adecuada administración de configuración.
+Contenido: Una tabla que indique los cambios que ha sufrido el documento. Debe incluir, al menos: fecha del cambio, descripción del cambio y persona(s) que realizaron el cambio. La estructura de esta tabla debe ser consistente con los lineamientos indicados en la sección 7.3.
+Referencias: [1], sección 5
+ 
+Prefacio
+Propósito: Que el lector determine si vale la pena seguir leyendo el documento
+Contenido: Descripción breve del contenido propósito y alcance del proyecto. Descripción de la audiencia esperada del documento (para quién es importante leer este documento) 
+Referencias: [1], sección 5
+Tamaño máximo 1/2 hoja. 
+ 
+Tabla de Contenidos
+Propósito: Que el lector encuentre rápidamente una sección específica del documento 
+Lista de Figuras
+Propósito: Que el lector encuentre rápidamente una figura específica del documento  
+Lista de Tablas
+Propósito: Que el lector encuentre rápidamente una tabla específica del documento
+1	Vista General del Proyecto
+Propósito: Que el lector pueda entender los aspectos más importantes del proyecto sin tener que leerlo en su totalidad. Esta sección, si bien es útil para los participantes del proyecto, es también de suma importancia para el cliente, por lo que debe estar escrito en un lenguaje que entienda el cliente.
+Contenido: Descrito en cada sub-sección
+Referencias: [1], seccion 5.1
+1.1	Visión del Producto
+Propósito: Que el lector entienda brevemente la visión del producto de software
+Visión del producto: Describir brevemente la visión del producto, es decir, una descripción de alto nivel de los requerimientos y cómo se espera que "cambie el mundo" una vez haya sido terminado y puesto en marcha. Note que el proyecto podría estar concebido para cumplir parcialmente la visión, pudiendo ser necesarios varios proyectos para completarla del todo
+Tamaño máximo 1/2 página.
+Referencias: [1], sección 5.1.1.1. 
+Nota: La sección 5.1.1.1 de [1], llamada propósito, alcance y objetivos, normalmente incluye información sobre el proyecto y el producto. Para efectos de este curso, se le pide la información de producto y proyecto de manera separada, en las secciones 1.1 y 1.2 de este formato.
+1.2	Propósito, Alcance y Objetivos
+Propósito: Que el lector entienda para qué es el proyecto, qué cosas incluye en su alcance y qué cosas no incluye.
+Contenido.
+Propósito: Para qué se va a realizar el proyecto? Normalmente es para concretar la visión, ya sea parcial o totalmente.
+Alcance: Qué cosas abarca y qué cosas no abarca el proyecto? Por ejemplo, se pueden enumerar qué características generales del producto se van a implementar y, especialmente, cuáles no.
+Objetivos: objetivo general y específicos del proyecto. Pueden estar enmarcados en el contexto del curso de Ingeniería de Software, aunque en proyectos reales los objetivos se desprenden directamente de la visión del producto.
+Tamaño máximo: 1 página
+Referencias: [1], sección 5.1.1.1
+1.3	Supuestos y Restricciones
+Propósito: Que el lector entienda qué elementos se "dan por sentado" en el proyecto, así como situaciones que restringen el desarrollo del mismo
+Contenido
+Supuestos: Todas aquellas cosas que se asumen como verdaderas para que el proyecto se pueda ejecutar. En otras palabras, si un supuesto resultara ser falso, el proyecto no podría ejecutarse exitosamente.
+Restricciones: Todas aquellas cosas que restringen la libre ejecución del proyecto o también que restrinjan el producto.
+Tamaño máximo: 1/2 página
+Referencias: [1], sección 5.1.1.2
+1.4	Entregables
+Propósito: Que el lector entienda rápidamente los entregables que recibirá el cliente, así como los entregables internos del proyecto.
+Contenido: Nombre de cada entregable, cantidad (si aplica), breve descripción y a quién va dirigido, fechas de entregas. 
+Tamaño máximo: 1/2 página.
+Referencias: [1], sección 5.1.1.3
+1.5	Resumen de Calendarización y Presupuesto
+Propósito: Que el lector entienda las principales fases e hitos del proyecto, así como los ítems más importantes de presupuesto
+Contenido: Una tabla que indique las principales fases e hitos del proyecto, con sus respectivas fechas. Otra tabla que indique los ítems consolidados de presupuesto y sus valores asociados, así como el costo total del proyecto.
+Tamaño máximo: 1/2 página.
+Referencias: [1], sección 5.1.1.4
+1.6	Evolución del Plan
+Propósito: Que el lector entienda el proceso general para hacer cambios al plan y hacerlos efectivos dentro del proyecto.
+Contenido: Descripción breve del proceso de cambios al plan (este documento), referenciando las secciones correspondientes del resto del documento que entreguen más detalles.
+Tamaño Máximo: 1 página
+Referencias: [1], sección 5.1.2
+2	Glosario
+Propósito: Que el lector pueda entender el significado esencial de acrónimos, conceptos técnicos y del dominio del problema
+Contenido: Listado de conceptos y acrónimos, con su correspondiente explicación. Cada concepto y acrónimo debería incluir al menos una cita bibliográfica. Aquí si tiene cabida usar Wikipedia
+Referencias: [1], sección 5.3
+3	Contexto del proyecto
+Propósito: Explicar los aspectos más importantes del funcionamiento interno del proyecto, así como su comunicación con entidades externas.
+Contenido: ver cada subsección
+3.1	Modelo de Ciclo de Vida 
+Propósito: Que el lector sepa el o los modelos de procesos en que se basa el proyecto, así como los métodos y prácticas que se utilizarán.
+Contenido: 
+Descripción del Modelo de Ciclo de Vida: Explicación breve del ciclo de vida del producto, las principales fases, hitos y entregables del proyecto. Incluir una figura que explique la idea general del ciclo de vida y un diagrama BPMN con la descripción de alto nivel del proceso. Este último debe ser consistente con otros diagramas BPMN en el resto del documento.
+Prácticas: Es poco común que un proyecto utilice un modelo de ciclo de vida al pie de la letra. Se deben indicar brevemente las prácticas específicas que se van a utilizar para los aspectos más importantes del proyecto. Por ejemplo: utilizar burndown charts para medir progreso, programación en parejas para el desarrollo, TDD para las pruebas, etc. Estos elementos deben ser descritos con más detalle en las secciones correspondientes del resto del documento.
+Tamaño máximo: 2 páginas.
+Referencias: [1], sección 5.4.1
+3.1.1	Análisis de Alternativas y Justificación
+Debe incluir un análisis de modelos de ciclo de vida, así como de prácticas específicas para cada aspecto del problema.
+Tamaño máximo: 1 página
+3.2	Lenguajes y Herramientas
+Planeacion				
+Desarollo				
+Documentacion				
+				
+
+Propósito: Que el lector sepa qué lenguajes de modelado y programación, así como las herramientas que se utilizarán en el proyecto.
+Contenido: Enumerar y describir brevemente cada herramienta y lenguaje, indicando referencias bibliográficas en cada uno.
+Tamaño máximo: 1/2 página
+Referencias: [1], sección 5.4.4
+3.2.1	Análisis de Alternativas y Justificación
+Tamaño máximo: 1/2 página
+
+3.3	Plan de Aceptación del Producto
+Propósito: Acordar entre cliente y equipo de desarrollo, cuáles son los criterios para que cada entregable sea aceptado a satisfacción por el cliente.
+Contenido: Para cada entregable, indicar qué criterios debe cumplir para ser aceptado a satisfacción por el cliente. Dichos criterios deben ser objetivos y medibles de manera formal. Indicar, también, las técnicas y herramientas requeridas para medir el cumplimiento del criterio, así como referenciar las secciones que apliquen del presente documento.
+Si el modelo de ciclo de vida es iterativo o ágil, hay que tener en cuenta que entregables, tales como el código, deben satisfacer los criterios de aceptación para cada iteración.
+Tamaño máximo: 1 página
+Referencias: [1], sección 5.4.5
+3.4	Organización del Proyecto y Comunicación
+Propósito: Identificar todos los principales entidades que participan directa o indirectamente del proyecto, sus responsabilidades respecto al proyecto y los canales de comunicación entre ellas.
+Contenido: ver cada sub-sección
+Referencias: [1], sección 5.4.6
+3.4.1	Interfaces Externas
+Propósito: Que un integrante del proyecto sepa quienes son las principales entidades involucradas, su relación con el proyecto y cómo comunicarse con ellas.
+Contenido: 
+Descripción de entidades: Una tabla que indique el nombre de la entidad, una descripción y sus responsabilidades asociadas al proyecto
+Flujo de información: Un Diagrama de Flujo de Datos [2], nivel 0 (también conocido como diagrama de contexto) que muestre las entidades externas y los flujos de información desde y hacia el proyecto.
+Tamaño máximo: 1 página
+3.4.2	Organigrama y Descripción de Roles
+Propósito: Que un integrante del proyecto sepa cuáles son sus responsabilidades, sus relaciones de jerarquía hacia el resto del equipo y los canales de comunicación con ellos.
+Contenido:
+Descripción de roles: Una tabla que indique el rol, su descripción y sus responsabilidades asociadas al proyecto y las secciones del presente documento que describan dichas responsabilidades en detalle.
+Flujo de información: Un Diagrama de Flujo de Datos [2], nivel 1, que muestre los roles y los procesos principales que involucren flujo de información desde y hacia otros roles.
+Tamaño máximo: 1 página
+Referencias: [1], sección 5.4.6.2 y 5.4.6.3
+
+
+4	Administración del Proyecto
+Propósito: Que los integrantes del proyecto entiendan los aspectos detallados del plan de proyecto
+Contenido: ver sub-secciones
+Referencias: [1], sección 5.5
+4.1	Métodos y Herramientas de Estimación
+Propósito: Fundamentar adecuadamente todas las estimaciones realizadas en el presente documento
+Contenido: Para estimación realizada en el presente documento, explicar los métodos y herramientas utilizadas para elaborar dicha estimación, así como la sección donde se muestran dichas estimaciones. Ejemplos de estimaciones pueden ser: tiempos requeridos para realizar una tarea, tamaño o complejidad del software, presupuestos asignados, etc.
+Tamaño máximo: 1/2 página.
+Referencias: [1], sección 5.5.1.1
+4.1.1	Análisis de Alternativas y Justificación
+Tamaño máximo: 1 página
+
+4.2	Inicio del proyecto
+Propósito: Que los integrantes del proyecto sepan qué deben hacer para poner en marcha el proyecto.
+Contenido: ver sub-secciones
+4.2.1	Entrenamiento del Personal
+Propósito: Que los integrantes del proyecto sepan cómo van a obtener los conocimientos necesarios para realizar el proyecto y cómo transferir su propio conocimiento a los demás participantes, tanto al inicio, como durante el proyecto.
+Contenido: Para cada tipo de conocimiento o habilidad requerida para el proyecto que sea insuficientemente satisfecha por el equipo de proyecto, indicar quiénes se entrenarán en dichos conocimientos o habilidades, quién les enseñará y cómo se realizará el proceso de enseñanza.
+Tamaño máximo: 1/2 página
+Referencias: [1], sección 5.5.1.4
+4.2.2	Infraestructura
+Propósito: Que los integrantes del proyecto entiendan cómo se van a obtener, poner en marcha y mantener todas las herramientas necesarias para el proyecto.
+Contenido: Indicar tareas a realizar para obtener las herramientas, ponerlas en marcha para el proyecto y mantenerlas durante el mismo, así como qué roles son los responsables de cada tarea, cuándo se realizará cada tarea y con qué frecuencia.
+Tamaño  máximo: 1/2 página
+Referencias: [1], sección 5.4.3
+4.3	Planes de Trabajo del Proyecto
+Propósito: Que los integrantes del proyecto sepan qué es lo que deben hacer durante la ejecución del proyecto. 
+Contenido: ver sub-secciones
+4.3.1	Descomposición de Actividades
+Propósito: Que los integrantes del proyecto sepan cuáles son las principales actividades del proyecto y su descomposición
+Contenido: Una estructura de descomposición de tareas (WBS) que describa las principales actividades a realizar en el proyecto y las relaciones de agregación entre ellas.
+Para ciclos de vida iterativos o ágiles, no es necesario hacer el WBS para todas las iteraciones. Basta con descomponer una sola.
+Tamaño máximo: 1 página
+Referencias: [1], sección 5.5.2.1
+4.3.2	Calendarización
+Propósito: Que los integrantes del proyecto sepan cuáles son las fechas de inicio y término de cada actividad y las relaciones de precedencia entre actividades (si las hubiere).
+Contenido: Una carta Gantt que describa las principales actividades del proyecto y sus relaciones de precedencia (si las hubiere).
+Para ciclos de vida iterativos o ágiles, no es necesario indicar aquellas actividades que no tengan fechas ni precedencias claras o que sean muy repetitivas, por ejemplo: diseño, implementación, pruebas, reuniones diarias. Sin embargo, es necesario detallar las actividades que se realicen en momentos específicos, por ejemplo: reunión de planeación de iteración, demostración al cliente, etc. Dado que son las mismas actividades por iteración, basta con mostrar el detalle para una sola iteración. En ese caso, la estructura de la iteración se puede explicar con un diagrama BPMN, en adición a la carta gantt.
+Tamaño máximo: 2 páginas
+Referencias: [1], sección 5.5.2.2
+4.3.3	Asignación de Recursos
+Propósito: Que los integrantes del proyecto sepan qué actividades deben ejecutar y los recursos que tienen disponibles para ejecutarlas.
+Contenido: Para cada actividad principal identificada en el WBS (por ejemplo, fases del proyecto), indicar los recursos necesarios y los roles requeridos para ejecutarla.
+Tamaño máximo: 1 página
+Referencias: [1], sección 5.5.2.3
+4.3.4	Asignación de Presupuesto y Justificación
+Propósito: Que los integrantes del proyecto y las personas responsables de la parte financiera del proyecto sepan cuáles son los flujos de dinero durante el proyecto y cuándo ocurren.
+Contenido: Una tabla de flujo de caja detallando las entradas y salidas de dinero para las principales actividades identificadas en el WBS, así como los períodos en los cuales ocurren.
+Tamaño máximo: 1 página
+Referencias: [1], sección 5.5.2.4
+5	Monitoreo y Control del Proyecto
+Propósito: Que los administradores del proyecto sepan cómo enterarse del "estado de salud" del proyecto, así como las acciones de control a ejecutar en caso de ocurrir algún problema en el proyecto.
+Contenido: ver sub-secciones.
+5.1	Administración de Requerimientos
+Propósito: Que los ingenieros de requerimientos sepan como detectar, reportar y controlar cambios en los requerimientos del producto. Que los clientes y desarrolladores sepan cuáles son sus responsabilidades en este proceso
+Contenido
+Artefactos a generar producto de la administración de requerimientos. Por ejemplo: Descripción de casos de uso, matrices de trazabilidad, etc.
+Diagrama BPMN y un párrafo que describa el proceso de administración de requerimientos (tamaño máximo: 1 página). El diagrama debe también incluir los momentos en los cuales se crean o refinan los diferentes artefactos.
+Tamaño máximo: 2 páginas
+Referencias: [1], sección 5.6.1
+5.1.1	Análisis de Alternativas y Justificación
+Tamaño máximo: 1 página
+5.2	Monitoreo y Control de Progreso
+Propósito: Que los administradores sepan cómo medir el progreso del proyecto. Que los demás integrantes sepan cómo reportar dicha información
+Contenido: 
+Descripción de las unidades utilizadas para medir progreso. Por ejemplo: número de requerimientos implementados, horas faltantes para completar una tarea, etc.
+Actividades a realizar para reportar progreso: responsables, momentos en que se realizan, descripción. Por ejemplo, cómo medir que un requerimiento fue implementado exitosamente. Esto debe ser consistente con las unidades de progreso definidas.
+Acciones correctivas. Qué hacer en caso que el progreso del proyecto no vaya según lo esperado: responsables, momentos en que se realizan, descripción.
+Tamaño máximo: 2 páginas
+Referencias: [1], sección 5.6.3
+5.3	Cierre del Proyecto
+Propósito: Que los integrantes del proyecto y las entidades externas a éste, sepan qué hay que hacer para cerrar el proyecto
+Contenido: En un proyecto real, esta sección describiría las acciones a seguir al finalizar el proyecto. Para efectos del curso, se deben describir las acciones a realizar previas a la cada entrega del proyecto: post-mortem de la fase, elaboración del reporte gerencial, etc.
+Tamaño máximo: 1/2 página
+Referencias: [1], sección 5.6.7
+6	Entrega del Producto
+Propósito: Describir el proceso de transición, es decir todo lo requerido para implantar el sistema en la organización del cliente 	
+Contenido: Un proyecto real requeriría describir muchas actividades, tales como: capacitaciones, transición de sistemas antiguos al sistema nuevo, entrega de manuales, instalación del sistema, etc. En el contexto del proyecto, basta con explicar brevemente las acciones a realizar para entregar el producto final al cliente al final del semestre, incluyendo: artefactos a entregar, momentos en que se entregarán y responsables de realizar dichas entregas.
+Tamaño máximo: 1/2 página
+Referencias: [1], sección 5.7
+7	Procesos de Soporte
+Propósito: Que los integrantes del proceso sepan cuáles los procesos transversales al proyecto que permiten soportar su ejecución y cuáles son sus responsabilidades en dichos procesos.
+Contenido: ver sub-secciones
+7.1	Ambiente de Trabajo
+Propósito: Definir las reglas del trabajo en equipo y los mecanismos para asegurar su cumplimiento
+Contenido: Descripción de las principales reglas para regular el trabajo en equipo y mecanismos para asegurar su cumplimiento
+Tamaño máximo: 1 página.
+7.2	Análisis y Administración de Riesgos
+Propósito: Identificar los principales riesgos asociados al proyecto. Definir acciones de prevención y mitigación de dichos riesgos, así como recursos  y responsables. Definir cuántos recursos y tiempo invertir en dichas acciones, de acuerdo a la prioridad de cada riesgo.
+Contenido: 
+Tabla con los riesgos del proyecto que han sido identificados, indicando probabilidad de ocurrencia e impacto. Los riesgos deben estar ordenados por prioridad, la cual es definida a partir de esos dos factores (máximo 1 página).
+Tabla con los riesgos más importantes, indicando acciones de prevención y mitigación, así como los responsables y recursos necesarios (máximo 1 página).
+Descripción del proceso de identificación de riesgos: diagrama BPMN con su explicación. Descripción de los momentos en el proyecto en que se realizará dicho proceso. (máximo 1 página).
+Referencias: [1], sección 5.8.3
+7.3	Administración de Configuración y Documentación
+Propósito: identificar los principales ítems de configuración y cómo evolucionarán durante el tiempo, particularmente los artefactos de documentación.
+Contenido:
+Descripción de los ítems de configuración identificados (máximo 1/2 página)
+Diagrama en BPMN y su correspondiente explicación, del proceso de control de cambios a los ítems de configuración (máximo 1 página)
+Tabla que describa los artefactos de documentación y en qué momento se crean o se refinan durante el proyecto (máximo 1/2 página)
+Referencias: [1], sección 5.8.4
+7.4	Métricas y Proceso de Medición
+Propósito: Que los integrantes del proyecto sepan qué se va a medir, cómo se va a medir y cómo se consolidarán las mediciones en métricas útiles para el proyecto. 
+Contenido: 
+Breve descripción de las métricas a utilizar (máximo 1/2 página)
+Descripción de los procesos para recolectar métricas. Para cada métrica: quién la recolecta, cuándo lo hace, qué herramientas utiliza; quién procesa la información recolectada y la consolida, cómo lo hace, qué herramientas utiliza; cómo se utiliza la información consolidada en el proyecto. (máximo 1 página)
+Referencias: [1], sección 5.8.7
+7.4.1	Análisis de Alternativas y Justificación
+Tamaño máximo: 1 página
+7.5	Control de Calidad
+Propósito: Que los integrantes sepan acerca de todos los procesos de control de calidad del proyecto.
+Contenido
+Explicación de alto nivel de todos los procesos asociados a control de calidad, lo cual incluye verificación, validación, revisiones y auditorías al proyecto. Por ejemplo: revisiones de calidad de documentos, pruebas unitarias, de sistema, revisiones externas, etc. Para cada proceso indicar: nombre del proceso, momentos del proyecto en que ocurren y quiénes son los responsables. Se recomienda resumir esta información en una tabla. 
+Describir el detalle de los procesos de control de calidad, usando BPMN y párrafos explicativos. 
+Tamaño máximo: 4 páginas
+Referencias: [1], secciónes 5.8.8 y 5.8.9.
+
+8	Anexos
+Agregue aquí cualquier información adicional relevante para el proyecto que no quepa en las secciones previas.
+Es importante tener en cuenta que hasta antes de esta sección, el documento debe ser autocontenido, es decir, el lector no debe necesitar leer ningún documento adicional o archivo externo para entender el proyecto. La información que se coloque aquí es simplemente un complemento, en caso que el lector requiriera más detalles sobre algún tema.
+Cartas gantt, diagramas y otros elementos similares no deben ir en esta sección, sino en el lugar que se indique dentro del documento
+
+Referencias
+Indique aquí todas las referencias bibliográficas utilizadas en el documento. Utilice formato IEEE o APA para definirlas. Para administrar automáticamente las referencias, se recomienda el uso de la herramienta Zotero (www.zotero.org).
+
+
+
+----
+Referencias usadas en el formato
+[1] ISO/IEC/IEEE 16326-2009
+[2] Yourdon, Just Enough Structured Analysis,  http://yourdon.com/strucanalysis/wiki/index.php?title=Introduction  
+
+
