@@ -20,9 +20,9 @@ Para subir archivos:
 
 1- git init
 
-2- touch nombreArchivo
+2- touch nombreArchivo (si es una carpeta: touch nombredecarpeta/)
 
-3- git add nombreArchivo
+3- git add nombreArchivo (si es una carpeta: git add nombrecarpeta/)
 
 4- git commit -m "nombre referencia" 
 
@@ -32,4 +32,8 @@ Para subir archivos:
 
 -> luego nombre usuario y password 
 
+
+Para copiar un proyecto al pc:
+
+git clone [url]
 
